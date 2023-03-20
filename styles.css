@@ -1,0 +1,78 @@
+body {
+height :100%;
+  background-color: lightblue;
+}
+
+
+
+p{ font_size:50px;
+color:blueviolet;
+ text-align: center;
+display:block;
+
+}
+html {
+  scroll-behavior: smooth;
+}
+
+h1
+{color:blue;
+ text-align: center;
+}
+h2
+{color:purple;
+ text-align: center;
+}
+
+.header {
+  text-align: right;
+}
+.header a {
+  display: inline-block;
+  margin-left: 1px;
+}
+img {
+ width: 250px;
+height: auto;
+  border: 5px solid blue;
+  border-radius: 5px;
+margin:auto;
+display:block;
+
+}
+ #container {
+  text-align: center;
+}
+
+.centered-list {
+  list-style-position: inside;
+  text-align: center;
+}
+button{
+  background-color:green;
+}
+table{
+border_collapse:collapse:
+width:100%;
+text_align :center;
+ background-color: white;
+margin-left:auto;
+margin-right:auto;
+}
+th{
+color:green;
+}
+tr{
+color:brown;
+}
+video{
+ width: 250px;
+autoplay;
+height: auto;
+  border: 5px  solid green;
+  border-radius: 5px;
+margin:auto;
+display:block;
+
+}
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
